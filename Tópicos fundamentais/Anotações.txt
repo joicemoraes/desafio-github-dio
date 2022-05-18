@@ -1,0 +1,15 @@
+                      Git & GitHub
+
+Ambiente de desenvolvimento e do servidor : Ambiente de desenvolvimento 
+é local , e servidor é remoto. 
+
+
+Sistema distribuído : Possui múltiplas cópias de si mesmo em diferentes 
+locais.
+
+
+Arquivo Mardown : Usa caracteres especiais como # para formatar o texto.
+
+
+Comand git clone : Clona um repositório remoto em seu repositório local.
+

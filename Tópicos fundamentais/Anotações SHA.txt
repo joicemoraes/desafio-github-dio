@@ -1,0 +1,19 @@
+                 SOBRE A SIGLA SHA 
+- SHA1
+- OBJETOS FUNDAMENTAIS 
+
+
+A sigla SHA significa Secure Hash Algorithm ( algoritimo de Hash Seguro), é
+um conjunto de funções Hash criptográficas projetas pela (NSA).
+
+A encriptação gera conjunto de characteres identificador de 40 dígitos. 
+
+É uma forma curta de representar um arquivo.
+ 
+             
+
+                    OBJETOS INTERNOS DO GIT 
+
+BLOBS 
+TREES 
+COMMITS 

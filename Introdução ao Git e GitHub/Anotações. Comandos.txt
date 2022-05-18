@@ -1,0 +1,86 @@
+               COMANDO PARA UM REPOSITÓRIO
+
+GIT INIT - Novo criar recurso
+GIT STATUS - Verificar estado dos arquivos/ diretórios 
+  
+
+            
+            ADICIONAR ARQUIVO/DIRETÓRIO (ÁREA ENCENADA) 
+
+GIT ADD MEU_ARQUIVO.TXT - Adicionar um arquivo em específico 
+
+GIT ADD MEU_DIRETORIO- Adicionar um diretório específico
+
+GIT ADD - Adicionar todos os arquivo/ diretório 
+
+
+                 
+              COMITAR ARQUIVO/DIRETÓRIO 
+
+Git commit meu_arquivo.txt - Comitar um arquivo
+
+Git commit meu_aequivo.txt meu_outro_arwuivo.txt - Comitar 
+vários arquivos 
+
+Git commit meuarquivo.txt -m "minha mensagem de commit" - Comitar 
+informando mensagem 
+
+                 
+                REMOVER ARQUIVO/DIRETÓRIO 
+
+Remover arquivo - git rm meu_arquivo.txt
+
+Remover pasta - git rm -r diretorio 
+ 
+                     
+                      HISTÓRICO
+
+Exibir histórico - git log
+
+Exibir histórico de um arquivo específico- git log -- <caminho_do_arquivo>
+
+                   
+                    DESFAZENDO OPERAÇÕES 
+
+Desfazendo alteração local (diretório trabalho) - git checkout -- meu_arquivo.txt
+
+Desfazendo alteração local (área de encenação) - git reset HEAD  meu_arquivo.txt
+ 
+
+             
+                ENVIAR ARQUIVOS/DIRETÍRIOS PARA O REMOTO 
+
+O primeiro Push de um direito remoto deve conter o nome do critério 
+e o branch - git push -u origin master 
+
+Os demais Pushes não precisam - git push
+
+                 
+                 APAGANDO UM BRANCH 
+
+git branch -d bug-123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

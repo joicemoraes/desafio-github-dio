@@ -1,0 +1,10 @@
+               DEFINIÇÕES SOBRE GIT 
+. GIT: É um sistema de controle de versões. Permite a 
+criação de um repositório para guarda versões de
+um projeto, que ajuda a manter um histórico 
+de alterações e a ter controle sobre 
+cada alteração no código. 
+
+. GitHub: Hospedagem de código fonte e arquivos de controle
+de versão criados pelo Git, permite que desenvolvedores 
+contribuem para projetos privatos e Open Source.
